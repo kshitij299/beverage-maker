@@ -1,0 +1,6 @@
+{
+    "test": {
+        "parallel-threads": 10,
+        "beverages": ["hot_tea", "hot_coffee", "black_tea", "green_tea"]
+    }
+}
